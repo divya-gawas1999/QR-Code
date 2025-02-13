@@ -1,0 +1,32 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 280px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+  }
+
+  .card-img {
+    border-radius: 10px;
+  }
+
+  .paragraph-text {
+    color:grey;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  .container-fluid {
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 1000px;
+    padding: 80px 0px 80px 0px ;
+    margin: auto;
+    background-color: rgb(147, 198, 229);
+  }
+
+  body {
+    background-image: url(../images/favicon-32x32.png);
+    padding: 30px;
+  }
